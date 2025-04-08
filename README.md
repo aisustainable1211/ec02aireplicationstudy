@@ -26,3 +26,5 @@ This study re-implements the Eco2AI convolutional neural network (CNN) model usi
 
 5. Citation
 6. Budennyy, S et al. (2022) Eco2AI: An Emission and Energy Consumption Estimation Library for Deep Learning Models. Automatc Control and Computer Sciences, 5 (6) pp 1014-1024 https://doi.org/10.1134/S1064562422060230
+   
+The data used for this study was the MNIST dataset, a publicly available benchmark dataset hosted at http://yann.lecun.com/exdb/mnist/
